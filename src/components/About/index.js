@@ -38,7 +38,7 @@ const About = () => {
             technologies on challenging and diverse projects.
                 </p>
                 <p>
-                I'm quiet confident, naturally curious, and perpetually working on
+                I'm quite confident, naturally curious, and perpetually working on
             improving my chops one design problem at a time.
                 </p>
                 <p>
