@@ -3,7 +3,7 @@ import { Link, NavLink } from 'react-router-dom';
 import LogoReact from '../../assets/images/logo-react.png'
 import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEnvelope, faHome, faUser, faBars, faClose, faTriangle } from '@fortawesome/free-solid-svg-icons';
+import { faEnvelope, faHome, faUser, faBars, faClose } from '@fortawesome/free-solid-svg-icons';
 import { faFacebook, faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { useState } from 'react'
 
@@ -35,11 +35,6 @@ const Sidebar = () => {
             />
         </nav>
         <ul>
-            <li>
-                <a target="_blank" rel='noreferrer' href="https://spark-s-monster-hunt.vercel.app/">
-                    <FontAwesomeIcon icon={faTriangle} color="#4d4d4e" />
-                </a>
-            </li>
             <li>
                 <a target="_blank" rel='noreferrer' href="https://www.linkedin.com/in/%C4%91%E1%BA%A1t-b%C3%B9i-556704238/">
                     <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
