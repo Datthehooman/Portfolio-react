@@ -36,6 +36,11 @@ const Sidebar = () => {
         </nav>
         <ul>
             <li>
+                <a target="_blank" rel='noreferrer' href="https://spark-s-monster-hunt.vercel.app/">
+                    <FontAwesomeIcon icon={faTriangle} color="#4d4d4e" />
+                </a>
+            </li>
+            <li>
                 <a target="_blank" rel='noreferrer' href="https://www.linkedin.com/in/%C4%91%E1%BA%A1t-b%C3%B9i-556704238/">
                     <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
                 </a>
